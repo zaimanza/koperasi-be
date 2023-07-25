@@ -1,26 +1,23 @@
 {
-  "name": "express-backend-template",
+  "name": "koperasi-be",
   "version": "1.0.0",
-  "description": "A backend template usingExpress",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server.js",
-    "dev": "nodemon server.js",
-    "manza": "nodemon server.js"
+    "start": "nodemon app.js",
+    "dev": "nodemon app.js",
+    "manza": "nodemon app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zaimanza/express-backend-template.git"
+    "url": "git+https://github.com/zaimanza/koperasi-be.git"
   },
-  "keywords": [
-    "'"
-  ],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zaimanza/express-backend-template/issues"
+    "url": "https://github.com/zaimanza/koperasi-be/issues"
   },
-  "homepage": "https://github.com/zaimanza/express-backend-template#readme",
+  "homepage": "https://github.com/zaimanza/koperasi-be#readme",
   "devDependencies": {
     "nodemon": "^3.0.1"
   },
